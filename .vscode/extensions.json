@@ -11,6 +11,7 @@
     "Orta.vscode-jest",
     "Postman.postman-for-vscode",
     "qwtel.sqlite-viewer",
-    "ventura.prom"
+    "ventura.prom",
+    "SonarSource.sonarlint-vscode"
   ]
 }
