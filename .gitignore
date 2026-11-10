@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+.expo/
+dist/
+web-build/
+.eas/
+android/
+*.apk
+*.bundle
+ios/
+.xcode.env.local
+*.app
+*.ipa
+
+# Local Configuration and Credentials
+.env
+.env.*
+!.env.example
+.env.local
+*.jks
+*.p8
+*.keystore
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.history/

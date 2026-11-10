@@ -1,0 +1,19 @@
+{
+  "name": "Mobile Application Repository",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.vscode-typescript-next",
+        "expo.vscode-expo-tools",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "rangav.vscode-thunder-client"
+      ]
+    }
+  },
+  "forwardPorts": [8081, 19000, 19001, 19002],
+  "remoteUser": "node"
+}
